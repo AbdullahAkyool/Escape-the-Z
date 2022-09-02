@@ -1,4 +1,5 @@
 # Escape-the-Z
+# My survival-horror game that I developed for the computer platform as a graduation project.
 ![Ekran Görüntüsü (292)](https://user-images.githubusercontent.com/72947550/188121432-62dff445-fd70-4a67-8a5a-32098d7a1e3d.png)
 ![Ekran Görüntüsü (293)](https://user-images.githubusercontent.com/72947550/188121438-b2685719-5386-48ec-95d2-b62b958b0572.png)
 ![Ekran Görüntüsü (294)](https://user-images.githubusercontent.com/72947550/188121446-0d1c04a9-3700-4408-a722-dca1d991fc34.png)
