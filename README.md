@@ -1,7 +1,7 @@
 # Escape-the-Z
 # My survival-horror game that I developed for the pc platform.(Graduation Project)
 
-You can contact for source files and codes.
+Also the first game I developed.
 
 ![Ekran Görüntüsü (292)](https://user-images.githubusercontent.com/72947550/188121432-62dff445-fd70-4a67-8a5a-32098d7a1e3d.png)
 ![Ekran Görüntüsü (293)](https://user-images.githubusercontent.com/72947550/188121438-b2685719-5386-48ec-95d2-b62b958b0572.png)
